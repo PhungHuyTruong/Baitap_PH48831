@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|c:\\users\\lenovo\\source\\repos\\ph48831_phunghuytruong\\ph48831_phunghuytruong\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|solutionrelative:ph48831_phunghuytruong\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|c:\\users\\lenovo\\source\\repos\\ph48831_phunghuytruong\\ph48831_phunghuytruong\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|solutionrelative:ph48831_phunghuytruong\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|c:\\users\\lenovo\\source\\repos\\ph48831_phunghuytruong\\ph48831_phunghuytruong\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|solutionrelative:ph48831_phunghuytruong\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|c:\\users\\lenovo\\source\\repos\\ph48831_phunghuytruong\\ph48831_phunghuytruong\\views\\sinhvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|solutionrelative:ph48831_phunghuytruong\\views\\sinhvien\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|c:\\users\\lenovo\\source\\repos\\ph48831_phunghuytruong\\ph48831_phunghuytruong\\views\\sinhvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|solutionrelative:ph48831_phunghuytruong\\views\\sinhvien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|c:\\users\\lenovo\\source\\repos\\ph48831_phunghuytruong\\ph48831_phunghuytruong\\views\\sinhvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|solutionrelative:ph48831_phunghuytruong\\views\\sinhvien\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|c:\\users\\lenovo\\source\\repos\\ph48831_phunghuytruong\\ph48831_phunghuytruong\\views\\sinhvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|solutionrelative:ph48831_phunghuytruong\\views\\sinhvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|c:\\users\\lenovo\\source\\repos\\ph48831_phunghuytruong\\ph48831_phunghuytruong\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|solutionrelative:ph48831_phunghuytruong\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|c:\\users\\lenovo\\source\\repos\\ph48831_phunghuytruong\\ph48831_phunghuytruong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|solutionrelative:ph48831_phunghuytruong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|c:\\users\\lenovo\\source\\repos\\ph48831_phunghuytruong\\ph48831_phunghuytruong\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|solutionrelative:ph48831_phunghuytruong\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|c:\\users\\lenovo\\source\\repos\\ph48831_phunghuytruong\\ph48831_phunghuytruong\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|solutionrelative:ph48831_phunghuytruong\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|c:\\users\\lenovo\\source\\repos\\ph48831_phunghuytruong\\ph48831_phunghuytruong\\models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A978AA9-525C-4125-8704-ED61A275ED63}|PH48831_phunghuytruong\\PH48831_phunghuytruong.csproj|solutionrelative:ph48831_phunghuytruong\\models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Models\\BaitapPh48831Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PH48831_phunghuytruong\\Models\\BaitapPh48831Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PH48831_phunghuytruong\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PH48831_phunghuytruong\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T12:12:52.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "PH48831_phunghuytruong\\Controllers\\SinhVienController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "PH48831_phunghuytruong\\Controllers\\SinhVienController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA7wCIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:04:35.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PH48831_phunghuytruong\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PH48831_phunghuytruong\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T12:12:50.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Views\\SinhVien\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PH48831_phunghuytruong\\Views\\SinhVien\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Views\\SinhVien\\Delete.cshtml",
+              "RelativeToolTip": "PH48831_phunghuytruong\\Views\\SinhVien\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T12:10:47.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Views\\SinhVien\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PH48831_phunghuytruong\\Views\\SinhVien\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Views\\SinhVien\\Edit.cshtml",
+              "RelativeToolTip": "PH48831_phunghuytruong\\Views\\SinhVien\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T12:10:27.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Views\\SinhVien\\Details.cshtml",
+              "RelativeDocumentMoniker": "PH48831_phunghuytruong\\Views\\SinhVien\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Views\\SinhVien\\Details.cshtml",
+              "RelativeToolTip": "PH48831_phunghuytruong\\Views\\SinhVien\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T12:10:05.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Views\\SinhVien\\Create.cshtml",
+              "RelativeDocumentMoniker": "PH48831_phunghuytruong\\Views\\SinhVien\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Views\\SinhVien\\Create.cshtml",
+              "RelativeToolTip": "PH48831_phunghuytruong\\Views\\SinhVien\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T12:09:42.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Views\\SinhVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "PH48831_phunghuytruong\\Views\\SinhVien\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Views\\SinhVien\\Index.cshtml",
+              "RelativeToolTip": "PH48831_phunghuytruong\\Views\\SinhVien\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T12:09:13.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Program.cs",
+              "RelativeDocumentMoniker": "PH48831_phunghuytruong\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Program.cs",
+              "RelativeToolTip": "PH48831_phunghuytruong\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:02:46.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\appsettings.json",
+              "RelativeDocumentMoniker": "PH48831_phunghuytruong\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\appsettings.json",
+              "RelativeToolTip": "PH48831_phunghuytruong\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T12:02:20.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LopHoc.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Models\\LopHoc.cs",
+              "RelativeDocumentMoniker": "PH48831_phunghuytruong\\Models\\LopHoc.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Models\\LopHoc.cs",
+              "RelativeToolTip": "PH48831_phunghuytruong\\Models\\LopHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:01:51.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "PH48831_phunghuytruong\\Models\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Models\\SinhVien.cs",
+              "RelativeToolTip": "PH48831_phunghuytruong\\Models\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:01:44.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaitapPh48831Context.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Models\\BaitapPh48831Context.cs",
+              "RelativeDocumentMoniker": "PH48831_phunghuytruong\\Models\\BaitapPh48831Context.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\PH48831_phunghuytruong\\PH48831_phunghuytruong\\Models\\BaitapPh48831Context.cs",
+              "RelativeToolTip": "PH48831_phunghuytruong\\Models\\BaitapPh48831Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:01:32.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
